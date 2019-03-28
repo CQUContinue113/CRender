@@ -7,3 +7,6 @@
 - [ ] week3.Model load
 - [ ] week4.Texture mapping
 ...
+
+####Pipeline
+![pipeline](readme/pipeline.svg "pipeline")
